@@ -18,7 +18,7 @@ public class BubbleSort {
           System.out.print(intArray[i]);
         }
 
-	System.out.println("Hi , I want to check build is trigger or not after modify")
+	System.out.println("Hi , I want to check build is trigger or not after modify");
 
     }
 
